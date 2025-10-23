@@ -29,7 +29,7 @@ I’m a **MERN Stack Developer** passionate about building responsive, user-focu
 
 ### 📫 Connect with Me
 - **Email:** sharmarajat3745@gmail.com  
-- **LinkedIn:** [linkedin.com/in/rajat-sharma](https://linkedin.com/in/rajat-sharma) *(replace with your actual URL)*  
+- **LinkedIn:** [linkedin.com/in/rajat-sharma](https://linkedin.com/in/rajatsharma3745) 
 
 ---
 
