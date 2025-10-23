@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Rajat Sharma
 
-<!--
-**rajat-sharma-3745/rajat-sharma-3745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **MERN Stack Developer** passionate about building responsive, user-focused web applications. I enjoy crafting seamless digital experiences from backend APIs to interactive frontends, with clean and maintainable code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- **Frontend:** React.js, HTML, CSS, JavaScript, TailwindCSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Tools & Others:** Git, GitHub, Postman, VS Code, REST APIs  
+
+---
+
+### 🚀 Featured Projects
+
+- **[Connectly](https://github.com/rajat-sharma-3745/Connectly)**  
+  A modern **social media and chat website** built using the MERN stack. Features include real-time messaging and user authentication.
+
+- **[ShopSphere](https://github.com/rajat-sharma-3745/ShopSphere)**  
+  A **full-stack e-commerce platform** for clothing, integrating cart management, product filtering, and secure checkout.
+
+- **[StayHub](https://github.com/rajat-sharma-3745/StayHub)**  
+  A **hotel booking application** that enables users to search, view, and reserve hotels efficiently with a clean and intuitive interface.
+
+> 🧩 Check out more of my repositories for additional projects and experiments.
+
+---
+
+### 📫 Connect with Me
+- **Email:** sharmarajat3745@gmail.com  
+- **LinkedIn:** [linkedin.com/in/rajat-sharma](https://linkedin.com/in/rajat-sharma) *(replace with your actual URL)*  
+
+---
+
+⭐ *Thanks for visiting my profile! I’m always open to collaboration and learning opportunities.*
+
