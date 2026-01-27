@@ -29,21 +29,6 @@ I’m a **MERN Stack Developer** passionate about building responsive, user-focu
 
 ---
 
-### 🚀 Featured Projects
-
-- **[Connectly](https://github.com/rajat-sharma-3745/Connectly)**  
-  A modern **social media and chat website** built using the MERN stack. Features include real-time messaging and user authentication.
-
-- **[ShopSphere](https://github.com/rajat-sharma-3745/ShopSphere)**  
-  A **full-stack e-commerce platform** for clothing, integrating cart management, product filtering, and secure checkout.
-
-- **[StayHub](https://github.com/rajat-sharma-3745/StayHub)**  
-  A **hotel booking application** that enables users to search, view, and reserve hotels efficiently with a clean and intuitive interface.
-
-> 🧩 Check out more of my repositories for additional projects and experiments.
-
----
-
 ### 📫 Connect with Me
 - **Email:** sharmarajat3745@gmail.com  
 - **LinkedIn:** [linkedin.com/in/rajatsharma45](https://linkedin.com/in/rajatsharma45) 
